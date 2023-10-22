@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/SamuelBelo/753b5d769360fbe911ec110e59716dd9-sticker.png?updatedAt=1697757905569"/>
+    <img src="https://ik.imagekit.io/SamuelBelo/329c027da62b6b6c18d9c202c773ec7c-sticker.png?updatedAt=1698011973422"/>
 
 
 
