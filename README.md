@@ -10,7 +10,11 @@
 ## 📼 Preview
 
 
-https://github.com/samuelbeloluz/UITableViewChallenge/assets/120046852/f900192b-d011-4fc4-9ac3-a1981ce7688f
+
+
+https://github.com/samuelbeloluz/UITableViewChallenge/assets/120046852/b2b76ae8-efaa-4599-ba9f-988846ae747c
+
+
 
 
 
