@@ -24,9 +24,8 @@ https://github.com/samuelbeloluz/UITableViewChallenge/assets/120046852/f900192b-
 - [UIKit](https://developer.apple.com/documentation/uikit)
 - [Xcode](https://developer.apple.com/documentation/xcode)
 - [Auto Layout](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
-- [Modal Navigation](https://getuikit.com/docs/modal)
-- [Navigation Controller](https://developer.apple.com/documentation/uikit/uinavigationcontroller)
-- [AVFoundation](https://developer.apple.com/documentation/avfoundation/)
+- [UITableView](https://developer.apple.com/documentation/uikit/uitableview)
+- [UITableViewCell](https://developer.apple.com/documentation/uikit/uitableviewcell)
 
 ## 🧑🏻‍💻 Wanna Try It ??
 
