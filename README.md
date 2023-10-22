@@ -37,8 +37,8 @@ https://github.com/samuelbeloluz/UITableViewChallenge/assets/120046852/f900192b-
 
 02. Open the project in Xcode:
 ```bash
-  $ cd PracticingNavigation
-  $ open PracticingNavigation.xcodeproj
+  $ cd UITableViewChallenge02
+  $ open UITableViewChallenge02.xcodeproj
 ````
 
 ## 📝 License
